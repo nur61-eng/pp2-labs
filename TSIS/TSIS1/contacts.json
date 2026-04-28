@@ -1,0 +1,72 @@
+[
+  {
+    "id": 8,
+    "name": "Асель",
+    "email": null,
+    "birthday": null,
+    "group": null,
+    "phones": [
+      null
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Гулим",
+    "email": null,
+    "birthday": null,
+    "group": null,
+    "phones": [
+      null
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Айгерим",
+    "email": null,
+    "birthday": null,
+    "group": null,
+    "phones": [
+      null
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Алия",
+    "email": null,
+    "birthday": null,
+    "group": null,
+    "phones": [
+      "87001234567"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Дамир",
+    "email": null,
+    "birthday": null,
+    "group": "Work",
+    "phones": [
+      null
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Жанна",
+    "email": null,
+    "birthday": null,
+    "group": null,
+    "phones": [
+      null
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Ерлан",
+    "email": null,
+    "birthday": null,
+    "group": null,
+    "phones": [
+      null
+    ]
+  }
+]
